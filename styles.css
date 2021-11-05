@@ -22,7 +22,7 @@ span {
 	letter-spacing: inherit;
 }
 .center_p {
-	margin: 50px 20px;
+	margin: 50px 30px;
 	padding: 0px;
 	text-align: center;
 	font-size: 30px;
@@ -34,7 +34,22 @@ span {
 	font-size: 20px;
 	color: #0f0f0f;
 }
-a {
+#ytlink {
 	text-decoration: none;
 	color: red;
+}
+#gmlink {
+	text-decoration: none;
+	color: white;
+}
+footer {
+	padding: 30px;
+	background-color: black;
+	text-align: center;
+}
+.footer_p {
+	margin: 0px;
+	padding: 0px;
+	font-size: 20px;
+	font-family: 'Product sans';
 }
