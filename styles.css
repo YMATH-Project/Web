@@ -10,7 +10,7 @@ header {
 }
 span {
 	font-family: "Bebas Neue";
-	font-size: 60px;
+	font-size: 50px;
 	letter-spacing: 2px;
 	text-align: center;
 	color: white;
@@ -38,10 +38,6 @@ span {
 	text-decoration: none;
 	color: red;
 }
-#gmlink {
-	text-decoration: none;
-	color: white;
-}
 footer {
 	padding: 30px;
 	background-color: black;
@@ -50,6 +46,7 @@ footer {
 .footer_p {
 	margin: 0px;
 	padding: 0px;
-	font-size: 20px;
+	font-size: 17px;
 	font-family: 'Product sans';
+	color: white;
 }
