@@ -1,0 +1,40 @@
+body {
+	font-family: "Product Sans";
+	margin: 0px;
+	padding: 0px;
+}
+header {
+	box-shadow: 0px 3px 10px grey;
+	background-color: black;
+	text-align: center;
+}
+span {
+	font-family: "Bebas Neue";
+	font-size: 60px;
+	letter-spacing: 2px;
+	text-align: center;
+	color: white;
+}
+.Y {
+	color: #04fbff;
+	font-family: inherit;
+	font-size: inherit;
+	letter-spacing: inherit;
+}
+.center_p {
+	margin: 50px 20px;
+	padding: 0px;
+	text-align: center;
+	font-size: 30px;
+}
+.justified_p {
+	margin: 40px 40px;
+	padding: 0px;
+	text-align: justify;
+	font-size: 20px;
+	color: #0f0f0f;
+}
+a {
+	text-decoration: none;
+	color: red;
+}
