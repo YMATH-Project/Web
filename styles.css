@@ -9,7 +9,6 @@ header {
 	text-align: center;
 }
 span {
-	font-family: "Bebas Neue";
 	font-size: 50px;
 	letter-spacing: 2px;
 	text-align: center;
@@ -17,7 +16,6 @@ span {
 }
 .Y {
 	color: #04fbff;
-	font-family: inherit;
 	font-size: inherit;
 	letter-spacing: inherit;
 }
@@ -48,6 +46,5 @@ footer {
 	margin: 0px;
 	padding: 0px;
 	font-size: 15px;
-	font-family: 'Product sans';
 	color: white;
 }
