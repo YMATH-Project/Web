@@ -33,6 +33,7 @@ span {
 	text-align: justify;
 	font-size: 20px;
 	color: #0f0f0f;
+        text-indent: 10px;
 }
 #ytlink {
 	text-decoration: none;
@@ -50,4 +51,3 @@ footer {
 	font-family: 'Product sans';
 	color: white;
 }
-/* o */
