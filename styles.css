@@ -48,19 +48,18 @@ footer {
 	font-size: 17px;
 	color: white;
 }
+.list {
+	margin: 0px 40px 20px 20px;
+	padding: 0px;
+	text-align: left;
+	font-size: 17px;
+	color: #0f0f0f;
+}
 .justified_p_l {
-	margin: 40px 40px;
+	margin: 20px 40px;
 	padding: 0px;
 	text-align: justify;
 	font-size: 20px;
 	color: #0f0f0f;
   text-indent: 10px;
-}
-ul {
-	margin: 0px 40px;
-	padding: 0px;
-}
-li {
-	margin: 0px 40px;
-	font-size: 17px;
 }
