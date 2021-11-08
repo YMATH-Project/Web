@@ -38,13 +38,29 @@ span {
 	color: red;
 }
 footer {
-	padding: 30px;
+	padding: 20px;
 	background-color: black;
 	text-align: center;
 }
 .footer_p {
-	margin: 0px;
+	margin: 20px 20px;
 	padding: 0px;
-	font-size: 15px;
+	font-size: 17px;
 	color: white;
+}
+.justified_p_l {
+	margin: 40px 40px;
+	padding: 0px;
+	text-align: justify;
+	font-size: 20px;
+	color: #0f0f0f;
+  text-indent: 10px;
+}
+ul {
+	margin: 0px 40px;
+	padding: 0px;
+}
+li {
+	margin: 0px 40px;
+	font-size: 17px;
 }
