@@ -1,7 +1,7 @@
 body {
-	font-family: sans-serif;
 	margin: 0px;
 	padding: 0px;
+	font-family: sans-serif;
 }
 header {
 	box-shadow: 0px 3px 10px grey;
@@ -9,7 +9,6 @@ header {
 	text-align: center;
 }
 span {
-	font-family: "Bebas Neue";
 	font-size: 50px;
 	letter-spacing: 2px;
 	text-align: center;
@@ -17,7 +16,6 @@ span {
 }
 .Y {
 	color: #04fbff;
-	font-family: inherit;
 	font-size: inherit;
 	letter-spacing: inherit;
 }
@@ -33,6 +31,7 @@ span {
 	text-align: justify;
 	font-size: 20px;
 	color: #0f0f0f;
+  text-indent: 10px;
 }
 #ytlink {
 	text-decoration: none;
@@ -46,7 +45,6 @@ footer {
 .footer_p {
 	margin: 0px;
 	padding: 0px;
-	font-size: 17px;
-	font-family: 'Product sans';
+	font-size: 15px;
 	color: white;
 }
